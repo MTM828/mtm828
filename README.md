@@ -3,5 +3,5 @@
 To do:
 - Add some stuff to https://github.com/sparshg/py-games
 - Finish https://github.com/mtm828/shefwerld
-- Learn GLFW and Cairo
+- Learn OpenGL
 - Create a propper README :P
